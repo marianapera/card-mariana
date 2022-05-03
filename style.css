@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+/* Colocar o navegador na largura 360px, por gentileza */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 360px;
+    background-color: #FFFFFF;
+    font-family: Montserrat;
+    color: #000000;
+}
+
+#bannerpp{
+    width: 360px;
+    margin: 0px 0px 24px 0px;
+}
+
+h1{
+    font-size: 20px;
+    width: 360px;
+    text-align: center;
+}
+
+#ppcard{
+    margin: 17px 60px;
+}
+
+#paragrafo{
+    font-size: 14px;
+    width: 360px;
+    text-align: center;
+}
+
+#icones{
+    margin: 12px 48px 36.89px 57px;
+}
+
+#redesociais{
+    margin: 5px 85px 16.99px;
+}
+
+.txt-rodape{
+    font-size: 8px;
+    color: #727272;
+    width: 360px;
+    text-align: center;
+    margin: 0px 0px 16px;
+}
